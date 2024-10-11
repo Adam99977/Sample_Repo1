@@ -1,6 +1,6 @@
 package basic;
 
-public class HelloWorld {
+public class Hello_World {
 
 	public static void main(String[] args) {
 		int a = 10;
